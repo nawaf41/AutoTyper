@@ -33,4 +33,5 @@ MIT
 ---
 
 ⭐ If you find this useful, consider starring the repo.
+
 🔗 [More projects](https://github.com/nawaf41)
