@@ -26,21 +26,6 @@ Auto Typer simulates real keystrokes at the operating system level, the same as 
 - Click **Start** in the app (gives you a 3-second countdown to switch windows), or
 - Press the **Start hotkey** (default `F8`) while already focused on your target window — it sends immediately, no countdown
 
-## Building from source
-
-```bash
-pip install pyautogui keyboard pyinstaller
-pyinstaller --onefile --windowed --name AutoTyper --icon=icon.ico main.py
-```
-
-The finished executable will be in `dist/AutoTyper.exe`.
-
-## Requirements to run from source
-
-- Python 3.10+
-- `pyautogui`
-- `keyboard`
-
 ## License
 
 MIT
