@@ -1,6 +1,5 @@
 # Auto Typer
 
-![Repo views](https://komarev.com/ghpvc/?username=nawaf41&repo=AutoTyper&color=blueviolet)
 ![Downloads](https://img.shields.io/github/downloads/nawaf41/AutoTyper/total?color=blueviolet&label=Total%20Downloads)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
 
@@ -65,8 +64,7 @@ All hotkeys are fully customizable in the Hotkeys tab.
 When you first run `AutoTyper.exe`, Windows may show a "Windows protected your PC" message. **This is completely normal** and happens with many unsigned applications. 
 
 **AutoTyper is NOT a virus.** It's open source and safe to use. If you want to verify:
-1. Check the [source code](https://github.com/nawaf41/AutoTyper) on GitHub
-2. Scan the executable with [VirusTotal](https://www.virustotal.com/)
+1. Scan the executable with [VirusTotal](https://www.virustotal.com/)
 
 To bypass the warning:
 1. Click "More info"
@@ -81,7 +79,6 @@ MIT License — Free to use and distribute.
 
 If Auto Typer saves you time or makes your workflow easier, please consider:
 - ⭐ **Starring this repository**
-- 🐛 **Reporting bugs or suggesting features**
 - 📢 **Sharing with friends**
 
 ---
