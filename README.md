@@ -4,20 +4,20 @@
 ![Downloads](https://img.shields.io/github/downloads/nawaf41/AutoTyper/total?color=blueviolet&label=Total%20Downloads)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
 
-> A lightweight Windows macro tool that simulates keystrokes into whatever window currently has focus. Works in any application that accepts keyboard input — text editors, games, chat apps, forms, and more.
+> A lightweight Windows macro tool for automated typing. Simulates keystrokes into the currently focused window.
 
 ## ✨ Features
 
-- 📝 **Message List** — type multiple messages, sent in order or picked randomly
-- 🔄 **Loop Control** — repeat a set number of times, or run indefinitely until stopped
-- ⏱️ **Custom Delay Per Line** — override the global interval for any specific message
-- ⌨️ **Adjustable Typing Speed** — from instant to human-like speeds
-- 💾 **Presets** — save and reload your message lists and settings
-- 🎮 **Fully Customizable Hotkeys** — Start / Pause / Resume / Stop / Emergency Stop
-- 📊 **Run History** — view past runs with time, message count, and duration
+- 📝 **Message List** — add multiple messages to type
+- 🎲 **Random Message Order** — send messages in order or randomly
+- 🔊 **Sound Notification** — plays sound when run finishes
+- 🔄 **Loop Control** — set number of loops (0 = infinite)
+- ⏱️ **Seconds Between Messages** — customize delay between each message
+- ⌨️ **Typing Speed** — adjust from fast to slow typing speeds
+- 🎮 **Fully Customizable Hotkeys** — Start (F8), Pause/Resume (F10), Stop (F9), Emergency Stop (F12)
+- 📊 **Run History** — view past runs with time, messages sent, and duration
 - 🌙 **Dark / Light Themes** — choose your preferred aesthetic
-- 📦 **Compact Mode** — collapse extra panels to see just the essentials
-- 🛡️ **Safety Checks** — warns before infinite loops, prevents fast intervals, and won't run if the app itself is focused
+- 📦 **Compact Mode** — minimize UI to essentials
 
 ## 🚀 Quick Start
 
@@ -27,36 +27,30 @@
 
 ## 💻 How It Works
 
-Auto Typer simulates real keystrokes at the operating system level, exactly like manual typing.
+Auto Typer simulates keystrokes into whatever window currently has focus.
 
 **Two ways to start:**
 - **Click "Start"** in the app (gives you a 3-second countdown to switch windows), or
 - **Press the hotkey** (default `F8`) while already focused on your target window — sends immediately, no countdown
 
+## 🎮 Controls
+
+- **Start** — `F8` — Begin typing with countdown
+- **Pause/Resume** — `F10` — Pause the current run
+- **Stop** — `F9` — Stop the current run
+- **Emergency Stop** — `F12` — Stop immediately, no matter what
+
+All hotkeys are fully customizable in the Hotkeys tab.
+
 ## 📖 Usage Guide
 
-### Basic Setup
-1. Open Auto Typer
-2. Add your messages to the list
-3. Configure typing speed and delays
-4. Set your preferred hotkeys
+1. Add your messages to the list
+2. Configure typing speed and delays
+3. Enable random order or sound notification if needed
+4. Set loop count (0 for infinite)
 5. Click **Start** or press your hotkey
 6. Switch to your target window
 7. Watch it type! 👀
-
-### Settings
-- **Typing Speed** — adjust from instant to natural human speed
-- **Global Delay** — set default delay between messages
-- **Per-Message Delay** — override for specific messages
-- **Hotkeys** — fully customizable (Start, Pause, Resume, Stop, Emergency Stop)
-- **Themes** — toggle between dark and light modes
-- **Compact Mode** — minimize UI to essentials
-
-### Safety Features
-- ⚠️ Warns before running infinite loops
-- ⚠️ Prevents accidentally running at unsafe speeds
-- 🛡️ Won't execute if the app window itself is focused
-- 🎯 Emergency Stop hotkey for instant halt
 
 ## 🎯 Use Cases
 
@@ -65,6 +59,19 @@ Auto Typer simulates real keystrokes at the operating system level, exactly like
 - 🎮 Macro support for games
 - 📧 Bulk text input in any application
 - 🤖 Testing and automation workflows
+
+## ⚠️ Windows Protection Warning
+
+When you first run `AutoTyper.exe`, Windows may show a "Windows protected your PC" message. **This is completely normal** and happens with many unsigned applications. 
+
+**AutoTyper is NOT a virus.** It's open source and safe to use. If you want to verify:
+1. Check the [source code](https://github.com/nawaf41/AutoTyper) on GitHub
+2. Scan the executable with [VirusTotal](https://www.virustotal.com/)
+
+To bypass the warning:
+1. Click "More info"
+2. Click "Run anyway"
+3. Done!
 
 ## 📄 License
 
@@ -79,4 +86,4 @@ If Auto Typer saves you time or makes your workflow easier, please consider:
 
 ---
 
-**Questions?** Open an [issue](https://github.com/nawaf41/AutoTyper/issues) or check out my other [projects](https://github.com/nawaf41?tab=repositories) 🚀
+**Questions?** Open an [issue](https://github.com/nawaf41/AutoTyper/issues) or visit [GitHub](https://github.com/nawaf41) 🚀
