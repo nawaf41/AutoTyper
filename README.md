@@ -1,7 +1,6 @@
 # Auto Typer
 
 ![Downloads](https://img.shields.io/github/downloads/nawaf41/AutoTyper/total?color=blueviolet&label=Total%20Downloads)
-![Status](https://img.shields.io/badge/status-Active-brightgreen)
 
 > A lightweight Windows macro tool for automated typing. Simulates keystrokes into the currently focused window.
 
