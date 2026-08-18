@@ -83,4 +83,4 @@ If Auto Typer saves you time or makes your workflow easier, please consider:
 
 ---
 
-**Questions?** Open an [issue](https://github.com/nawaf41/AutoTyper/issues) or visit [GitHub](https://github.com/nawaf41) 🚀
+**Questions?** Open an [issue](https://github.com/nawaf41/AutoTyper/issues) 🚀
