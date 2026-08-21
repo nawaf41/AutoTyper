@@ -62,7 +62,7 @@ All hotkeys are fully customizable in the Hotkeys tab.
 
 When you first run `AutoTyper.exe`, Windows may show a "Windows protected your PC" message. **This is completely normal** and happens with many unsigned applications. 
 
-**AutoTyper is NOT a virus.** It's open source and safe to use. 
+**AutoTyper is NOT a virus.** It's safe to use. 
 
 To bypass the warning:
 1. Click "More info"
